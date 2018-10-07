@@ -57,7 +57,7 @@ public class PANEL extends JFrame {
 	   public static void main(String[] args) {
 		   PANEL frame = new PANEL();
 	       frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
-	       frame.setSize(new Dimension(400, 400));
+	       frame.setSize(new Dimension(800, 600));
 	       frame.setVisible(true);
 	   }
 
